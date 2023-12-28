@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **gilanisultan@gmail.com**
 
-- 📄 Know about my experiences [https://www.fiverr.com/gilanisultan](https://www.fiverr.com/gilanisultan)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sultan-gillani-298552114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sultan-gillani-298552114" height="30" width="40" /></a>
